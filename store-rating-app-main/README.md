@@ -350,7 +350,7 @@ store-rating/
 
 ![Store Rating app](https://github.com/darshilrawal/Store_rating_app/blob/main/store-rating-app-main/clipgif2.gif)
 
-![Store Rating app](https://github.com/PranjalTripatHI07/store-rating-app/blob/main/clipgif1.gif)
+![Store Rating app](https://github.com/darshilrawal/Store_rating_app/blob/main/store-rating-app-main/clipgif4.gif)
 
 ![Store Rating app](https://github.com/PranjalTripatHI07/store-rating-app/blob/main/clipgif5.gif)
 
