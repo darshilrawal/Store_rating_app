@@ -346,7 +346,7 @@ store-rating/
 
 ## OutPut
 
-![Store Rating app](https://github.com/PranjalTripatHI07/store-rating-app/blob/main/clipgif2.gif)
+![Store Rating app](https://github.com/darshilrawal/Store_rating_app/blob/main/store-rating-app-main/clipgif1.gif)
 
 ![Store Rating app](https://github.com/PranjalTripatHI07/store-rating-app/blob/main/clipgif4.gif)
 
@@ -367,4 +367,4 @@ store-rating/
 
 ## License
 
-This project is open source and available under the [Pranjal Tripathi](LICENSE).
+This project is open source and available under the [Darshil_Rawal](LICENSE).
